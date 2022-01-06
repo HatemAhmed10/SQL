@@ -1,2 +1,15 @@
-# SQL
-I will Analysis this player data use sql .
+# Basic SQ
+In this lesson, we will cover and you will be able to:
+
+Describe why SQL is important
+Explain how SQL data is stored and structured
+Create SQL queries using proper syntax including
+SELECT & FROM
+LIMIT
+ORDER BY
+WHERE
+Basic arithmetic operations
+LIKE
+IN
+NOT
+AND & BETWEEN & OR
