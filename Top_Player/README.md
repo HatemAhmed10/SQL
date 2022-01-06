@@ -13,3 +13,18 @@ In this lesson, we will cover and you will be able to:
 10-IN
 11-NOT
 12-AND & BETWEEN & OR
+
+
+
+Introduction to Logical Operators
+1-In the next concepts, you will be learning about Logical Operators. Logical Operators include:
+
+2-LIKE This allows you to perform operations similar to using WHERE and =, but for cases when you might not know exactly what you are looking for.
+
+3-IN This allows you to perform operations similar to using WHERE and =, but for more than one condition.
+
+4-NOT This is used with IN and LIKE to select all of the rows NOT LIKE or NOT IN a certain condition.
+
+5-AND & BETWEEN These allow you to combine operations where all combined conditions must be true.
+
+6-OR This allows you to combine operations where at least one of the combined conditions must be true.
