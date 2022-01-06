@@ -28,3 +28,10 @@ Introduction to Logical Operators
 5-AND & BETWEEN These allow you to combine operations where all combined conditions must be true.
 
 6-OR This allows you to combine operations where at least one of the combined conditions must be true.
+
+
+1-CREATE TABLE	is a statement that creates a new table in a database.
+2-DROP TABLE	is a statement that removes a table in a database.
+3-Entity-relationship diagram (ERD)	A common way to view data in a database.
+4-FROM	specifies from which table(s) you want to select the columns. Notice the columns need to exist in this table.
+5-SELECT	allows you to read data and display it. This is called a query and it specifies from which table(s) you want to select the columns.
