@@ -1,4 +1,4 @@
-# Basic SQ
+# Basic SQL
 In this lesson, we will cover and you will be able to:
 
 1-Describe why SQL is important
