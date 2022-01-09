@@ -1,4 +1,4 @@
-SQL Aggregations
+# SQL Aggregations
 
 we will cover and you will be able to:
 
